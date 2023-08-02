@@ -1,4 +1,4 @@
-**Project Name: Autonomous Object-Following Robot**
+# Autonomous Object-Following Robot
 
 ## Description
 
